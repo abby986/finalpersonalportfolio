@@ -12,8 +12,7 @@ const About = () => {
                 </p>
                 <p style={styles.paragraph}>
                     In my spare time, I enjoy creating art both digitally and
-                    traditionally, playing instruments, playing video games and
-                    role-playing games like Dungeons & Dragons, and learning new things!
+                    traditionally, playing instruments, playing video games, and learning new things!
                 </p>
                 <br />
                 <h2>Technical Skills</h2>
